@@ -6,7 +6,7 @@
 #define GENERAL_H
 
 #define MY_SSID "edit me"
-#define MY_WIFI_PASSWORD "edit meword"
+#define MY_WIFI_PASSWORD "edit me"
 
 #define MQTT_HOST "edit me"
 #define MQTT_PORT 1883
